@@ -1,4 +1,4 @@
-# cs_exA_part3
+# part3
 
 ## DBを用いたWebシステム開発を行う。
 
